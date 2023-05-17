@@ -1,0 +1,107 @@
+$fa-font-path: "../fonts/font-awesome-pro" !default;
+
+/* Slick Slider Variables ---------------------------------------------------------------------- */
+
+$slick-font-path: "../fonts/slick/";
+$slick-font-family: "";
+$slick-loader-path: "../imgs/slick/";
+
+$link-color: #1f5a7e;
+
+/* Bootstrap Variables ---------------------------------------------------------------------- */
+
+$font-family-sans-serif: 'Poppins', sans-serif;
+$font-size-base: 1rem;
+$line-height-base: 1.6;
+$headings-font-family: 'Playfair Display', serif;
+$headings-font-weight: 600;
+$headings-line-height: 1.2;
+
+$h1-font-size: math.div(66, 16) + rem;
+$h2-font-size: math.div(44, 16) + rem;
+$h3-font-size: math.div(30, 16) + rem;
+$h4-font-size: math.div(26, 16) + rem;
+$h5-font-size: math.div(22, 16) + rem;
+$h6-font-size: math.div(18, 16) + rem;
+
+// Theme Colors
+
+$body-bg: #fff;
+$body-color: #6A6A6A;
+
+$primary: #01426A;
+$secondary:#C5B783; 
+$success: #38ad73;
+$danger: #F64E60;
+
+$border: #ccc;
+$meta: #F8FAF8;
+
+$grid-gutter-width: 1.5rem;
+$spacer: 1rem;
+$gutters: (
+	0: 0,
+	1: $spacer * .25,
+	2: $spacer * .5,
+	3: $spacer,
+	4: $spacer * 1.5,
+	5: $spacer * 2,
+	6: $spacer * 3,
+);
+
+$navbar-light-color: #555;
+$navbar-light-hover-color: $primary;
+
+$border-radius: 0;
+$border-radius-sm: 0;
+$border-radius-lg: 0;
+
+// Input / Button
+$input-btn-line-height: 1.5;
+
+$input-btn-height: 60px;
+$input-btn-font-size: 1.125rem;
+$input-btn-padding-y: math.div( (math.div(($input-btn-height - 2px), 16px)) - ($input-btn-font-size * $input-btn-line-height), 2); //.96875rem;
+$input-btn-padding-x: 2rem;
+
+$input-btn-height-lg: 70px;
+$input-btn-font-size-lg: 1.125rem;
+$input-btn-padding-y-lg: math.div( (math.div(($input-btn-height-lg - 2px), 16px)) - ($input-btn-font-size-lg * $input-btn-line-height), 2); //1.28125rem;
+$input-btn-padding-x-lg: 2rem;
+
+// Input
+$input-padding-y: $input-btn-padding-y;
+$input-padding-x: $input-btn-padding-x;
+$input-border-radius: $border-radius;
+$input-border-radius-sm: $border-radius-sm;
+$input-border-radius-lg: $border-radius-lg;
+
+$input-padding-y-lg: $input-btn-padding-y-lg;
+$input-padding-x-lg: $input-btn-padding-x-lg;
+$input-font-size-lg: $input-btn-font-size-lg;
+
+// Select
+$form-select-padding-y: $input-padding-y;
+$form-select-padding-x: $input-padding-x;
+
+$form-select-padding-y-lg: $input-padding-y-lg;
+$form-select-padding-x-lg: $input-padding-x-lg;
+$form-select-font-size-lg: $input-font-size-lg;
+
+$form-select-border-radius: $input-border-radius;
+$form-select-border-radius-sm: $input-border-radius-sm;
+$form-select-border-radius-lg: $input-border-radius-lg;
+
+$form-select-indicator-padding: $form-select-padding-x * 2;
+$form-select-bg-position: right ($form-select-padding-x - 0.5rem) center;
+$form-select-bg-size: 20px 20px;
+$form-select-indicator-color: $primary;
+
+// Button
+$btn-font-size: 1.0625rem;
+$btn-font-weight: 600;
+/* $btn-padding-y: 1.25rem;
+$btn-padding-x: 1.75rem; */
+$btn-border-radius: $border-radius;
+$btn-border-radius-sm: $border-radius-sm;
+$btn-border-radius-lg: $border-radius-lg;
