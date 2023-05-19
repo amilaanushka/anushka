@@ -19,9 +19,9 @@ const reload  = browserSync.reload;
 
 browserSync.init({
 	watch: true,
-	server: "./",
-	/* open: 'local',
-	proxy: 'http://localhost/html/buyrocell-html/', */
+	//server: "./",
+	 open: 'local',
+	proxy: 'http://localhost/anushka/index.php', 
 	//port: 80,
 });
 
