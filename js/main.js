@@ -269,54 +269,9 @@
             animateIn: 'fadeIn'
         });
 
-        // Testimonials Slider
-        $(".testimonials.owl-carousel").owlCarousel({
-            nav: false, // Show next/prev buttons.
-            items: 3, // The number of items you want to see on the screen.
-            loop: false, // Infinity loop. Duplicate last and first items to get loop illusion.
-            navText: false,
-            margin: 25,
-            responsive : {
-                // breakpoint from 0 up
-                0 : {
-                    items: 1,
-                },
-                // breakpoint from 480 up
-                480 : {
-                    items: 1,
-                },
-                // breakpoint from 768 up
-                768 : {
-                    items: 2,
-                },
-                1200 : {
-                    items: 2,
-                }
-            }
-        });
+      
 
-        // Clients Slider
-        $(".clients.owl-carousel").imagesLoaded().owlCarousel({
-            nav: false, // Show next/prev buttons.
-            items: 2, // The number of items you want to see on the screen.
-            loop: false, // Infinity loop. Duplicate last and first items to get loop illusion.
-            navText: false,
-            margin: 10,
-            autoHeight: false,
-            responsive : {
-                // breakpoint from 0 up
-                0 : {
-                    items: 2,
-                },
-                // breakpoint from 768 up
-                768 : {
-                    items: 4,
-                },
-                1200 : {
-                    items: 6,
-                }
-            }
-        });
+     
 
         // Lightbox init
         body.magnificPopup({
@@ -423,13 +378,6 @@
             return false;
         });
         
-        //Google Maps
-        $("#map").googleMap({
-            zoom: 16 // Google Map ZOOM. You can change this value
-        });
-        $("#map").addMarker({
-            address: "S601 Townsend Street, San Francisco, California, USA", // Your Address. Change it
-        });
 
         scrollTop();
 
