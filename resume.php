@@ -183,6 +183,27 @@
                       <div id="skill_5" data-value="99" class="skill-container">
                         <div class="skill-percentage"></div>
                       </div>
+                      <div class="clearfix">
+                        <h4>CSS</h4>
+                        <div class="skill-value">99%</div>
+                      </div>
+                      <div id="skill_5" data-value="99" class="skill-container">
+                        <div class="skill-percentage"></div>
+                      </div>
+                       <div class="clearfix">
+                        <h4>Bootstrap</h4>
+                        <div class="skill-value">99%</div>
+                      </div>
+                      <div id="skill_5" data-value="99" class="skill-container">
+                        <div class="skill-percentage"></div>
+                      </div>
+                        <div class="clearfix">
+                        <h4>SCSS/LESS</h4>
+                        <div class="skill-value">90%</div>
+                      </div>
+                      <div id="skill_5" data-value="90" class="skill-container">
+                        <div class="skill-percentage"></div>
+                      </div>
                      
                       <div class="clearfix">
                         <h4>PHP/MYSQL</h4>

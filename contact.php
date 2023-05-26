@@ -29,7 +29,7 @@
                           <i class="linecons linecons-phone"></i>
                         </div>
                         <div class="ci-text">
-                          <h4>415-832-2000</h4>
+                          <h4>647-767-3680</h4>
                           <p>Duis erat leo, aliquam laoreet fringilla quis, pretium vitae dui.</p>
                         </div>
                       </div>
@@ -39,7 +39,7 @@
                           <i class="linecons linecons-location"></i>
                         </div>
                         <div class="ci-text">
-                          <h4>San Francisco</h4>
+                          <h4>Etobicoke, Ontario, Canada</h4>
                           <p>Duis erat leo, aliquam laoreet fringilla quis, pretium vitae dui.</p>
                         </div>
                       </div>
@@ -49,7 +49,7 @@
                           <i class="linecons linecons-mail"></i>
                         </div>
                         <div class="ci-text">
-                          <h4>hello@example.com</h4>
+                          <h4>anushka@a2webhost.com</h4>
                           <p>Duis erat leo, aliquam laoreet fringilla quis, pretium vitae dui.</p>
                         </div>
                       </div>
