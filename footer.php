@@ -1,6 +1,6 @@
   <!-- Footer -->
-  <footer class="site-footer clearfix">
-        <div class="footer-social">
+  <footer class="site-footer clearfix ">
+        <!-- <div class="footer-social">
           <ul class="footer-social-links">
             <li>
               <a href="#" target="_blank">Twitter</a>
@@ -14,9 +14,9 @@
               <a href="#" target="_blank">Instagram</a>
             </li>
           </ul>
-        </div>
+        </div> -->
 
-        <div class="footer-copyrights">
+        <div class="footer-copyrights text-center mx-auto">
           <p>© <?php echo date("Y"); ?> All rights reserved.</p>
         </div>
       </footer>

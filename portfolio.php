@@ -5,7 +5,7 @@
             <div id="primary" class="content-area">
 
               <div class="page-title">
-                <h1>Portfolio</h1>
+                <!-- <h1>Portfolio</h1> -->
                 <div class="page-subtitle">
                     <h4> My Works</h4>
                 </div>
