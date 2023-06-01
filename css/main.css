@@ -3145,7 +3145,7 @@ ul.social-links li:last-child a {
 }
 
 .page-portfolio-loaded .ajax-page-wrapper {
-  max-width: 1170px;
+  max-width: 90%;
   margin: 0 auto;
   padding: 20px 60px 50px;
 }

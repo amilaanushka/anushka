@@ -24,7 +24,7 @@
                         </li>
                         
                         <li>
-                          <a class="filter btn btn-sm btn-link" data-group="category_detailed">Detailed</a>
+                          <a class="filter btn btn-sm btn-link" data-group="websites">Websites</a>
                         </li>
                         
                         <li>
@@ -57,14 +57,14 @@
                       <div class="portfolio-grid four-columns shuffle">
 
                         <!-- Portfolio Item 1 -->
-                        <figure class="item standard" data-groups='["category_all", "category_detailed"]'>
+                        <figure class="item standard" data-groups='["category_all", "websites"]'>
                           <div class="portfolio-item-img">
-                            <img src="./img/portfolio/1.jpg" alt="Full Project 2" title="" />
-                            <a href="portfolio-project-2.html" class="ajax-page-load"></a>
+                            <img src="./img/portfolio/magicbox.jpg" alt="magicbox" title="" />
+                            <a href="portfolio_magicbox.html" class="ajax-page-load"></a>
                           </div>
 
                           <i class="far fa-file-alt"></i>
-                          <h4 class="name">Full Project 2</h4>
+                          <h4 class="name">Magicbox</h4>
                           <span class="category">Detailed</span>
                         </figure>
                         <!-- /Portfolio Item 1 -->
@@ -72,7 +72,7 @@
                         <!-- Portfolio Item 2 -->
                         <figure class="item lbvideo" data-groups='["category_all", "category_video", "category_youtube-video"]'>
                             <div class="portfolio-item-img">
-                              <img src="./img/portfolio/2.jpg" alt="YouTube Video 2" title="" />
+                              <img src="./img/portfolio/1.jpg" alt="YouTube Video 2" title="" />
                               <a href="https://www.youtube.com/embed/F-1weFCiYBA" class="lightbox mfp-iframe" title="YouTube Video 2"></a>
                             </div>
 
@@ -135,7 +135,7 @@
                         <!-- /Portfolio Item 6 -->
 
                         <!-- Portfolio Item 7 -->
-                        <figure class="item standard" data-groups='["category_all", "category_detailed"]'>
+                        <figure class="item standard" data-groups='["category_all", "websites"]'>
                           <div class="portfolio-item-img">
                             <img src="./img/portfolio/7.jpg" alt="Full Project 1" title="" />
                             <a href="portfolio-project-1.html" class="ajax-page-load"></a>
