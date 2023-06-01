@@ -174,13 +174,13 @@
                     </div>
 
 
-                    <div id="skills_2" class="skills-info skills-first-style">
+                    <div id="skills_1" class="skills-info skills-first-style">
                      
                       <div class="clearfix">
                         <h4>HTML</h4>
                         <div class="skill-value">99%</div>
                       </div>
-                      <div id="skill_5" data-value="99" class="skill-container">
+                      <div id="skill_1" data-value="99" class="skill-container">
                         <div class="skill-percentage"></div>
                       </div>
                       <div class="clearfix">
@@ -204,6 +204,22 @@
                       <div id="skill_5" data-value="90" class="skill-container">
                         <div class="skill-percentage"></div>
                       </div>
+
+                      <div class="clearfix">
+                        <h4>JavaScript</h4>
+                        <div class="skill-value">90%</div>
+                      </div>
+                      <div id="skill_7" data-value="90" class="skill-container">
+                        <div class="skill-percentage"></div>
+                      </div>
+
+                      <div class="clearfix">
+                        <h4>React</h4>
+                        <div class="skill-value">40%</div>
+                      </div>
+                      <div id="skill_7" data-value="40" class="skill-container">
+                        <div class="skill-percentage"></div>
+                      </div>
                      
                       <div class="clearfix">
                         <h4>PHP/MYSQL</h4>
@@ -213,13 +229,7 @@
                         <div class="skill-percentage"></div>
                       </div>
                      
-                      <div class="clearfix">
-                        <h4>JavaScript</h4>
-                        <div class="skill-value">90%</div>
-                      </div>
-                      <div id="skill_7" data-value="90" class="skill-container">
-                        <div class="skill-percentage"></div>
-                      </div>
+                     
                       
                       <div class="clearfix">
                         <h4>Smarty / Twig</h4>
