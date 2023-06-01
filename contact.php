@@ -30,7 +30,7 @@
                         </div>
                         <div class="ci-text">
                           <h4>647-767-3680</h4>
-                          <p>Duis erat leo, aliquam laoreet fringilla quis, pretium vitae dui.</p>
+                          <p>Drop me a message or give me a ring to get connected</p>
                         </div>
                       </div>
 
@@ -114,42 +114,4 @@
           </div>
         </div>
 
-        <footer class="site-footer clearfix">
-          <div class="footer-social">
-            <ul class="footer-social-links">
-              <li>
-                <a href="#" target="_blank">Twitter</a>
-              </li>
-
-              <li>
-                <a href="#" target="_blank">Facebook</a>
-              </li>
-
-              <li>
-                <a href="#" target="_blank">Instagram</a>
-              </li>
-            </ul>
-          </div>
-              
-          <div class="footer-copyrights">
-            <p>© 2020 All rights reserved. LMPixels.</p>
-          </div>
-        </footer>
-        
-      </div>
-    </div>
-
-    <script src="js/jquery-3.5.1.min.js"></script>
-    <script src="js/imagesloaded.pkgd.min.js"></script>
-    <script src='https://www.google.com/recaptcha/api.js'></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src='js/jquery.shuffle.min.js'></script>
-    <script src='js/masonry.pkgd.min.js'></script>
-    <script src='js/owl.carousel.min.js'></script>
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCrDf32aQTCVENBhFJbMBKOUTiUAABtC2o"></script>
-    <script src="js/jquery.googlemap.js"></script>
-    <script src="js/validator.js"></script>
-    <script src="js/main.js"></script>
-  </body>
-</html>
+        <?php include_once('footer.php') ?>      
