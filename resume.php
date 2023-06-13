@@ -288,6 +288,18 @@
                   </div>
 
                   </div>
+
+                  <div class="row">
+                    <div class="col-md-12">
+                        <div class="otherskills">
+                          <ul class="">
+                            <li>Wix</li>
+                            li
+                          </ul>
+                        </div>
+                    </div>
+                  </div>
+
               </div>
             </div>
           </div>
