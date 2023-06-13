@@ -74,9 +74,8 @@
 
                       <div class="ci-text">
                         <h4>Web development</h4>
-                        <p>Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit
-                          id volutpat. Vivamus blandit, dolor vitae lacinia maximus, risus velit vehicula odio, a
-                          tincidunt turpis turpis tempus ex.</p>
+                        <p>Creating innovative(Following industry best practices), high-quality, user-friendly websites that are visually appealing, responsive, optimized for performance and tailored to meet the specific needs and objectives of a client. 
+                           </p>
                       </div>
                     </div>
 
@@ -87,9 +86,7 @@
 
                       <div class="ci-text">
                         <h4>Web Design</h4>
-                        <p>Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit
-                          id volutpat. Vivamus blandit, dolor vitae lacinia maximus, risus velit vehicula odio, a
-                          tincidunt turpis turpis tempus ex.</p>
+                        <p>Creating visually captivating, user-friendly, unique and compelling website designs that effectively represent clients' vision, objectives, branding and engage with their target audience</p>
                       </div>
                     </div>
                   </div>
@@ -105,9 +102,7 @@
 
                       <div class="ci-text">
                         <h4>Content Management Systems</h4>
-                        <p>Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit
-                          id volutpat. Vivamus blandit, dolor vitae lacinia maximus, risus velit vehicula odio, a
-                          tincidunt turpis turpis tempus ex.</p>
+                        <p>Creating customized CMS solutions(using Custom templates, plugins, etc) that cater to the unique needs and requirements which will facilitate businesses and individuals a comprehensive solution to effectively manage and expand their digital content.</p>
                       </div>
                     </div>
 
@@ -118,9 +113,7 @@
 
                       <div class="ci-text">
                         <h4>Ecommerce</h4>
-                        <p>Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit
-                          id volutpat. Vivamus blandit, dolor vitae lacinia maximus, risus velit vehicula odio, a
-                          tincidunt turpis turpis tempus ex.</p>
+                        <p>Enabling businesses or personals to establish and expand their online presence, capitalize on the growing digital marketplace, and drive revenue through online sales</p>
                       </div>
                     </div>
                   </div>
