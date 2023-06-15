@@ -30,7 +30,7 @@
                         </div>
                         <div class="ci-text">
                           <h4>647-767-3680</h4>
-                          <p>Drop me a message or give me a ring to get connected</p>
+                          <p>Feel free to send me a message or give me a call to establish a connection.</p>
                         </div>
                       </div>
 
@@ -40,7 +40,7 @@
                         </div>
                         <div class="ci-text">
                           <h4>Etobicoke, Ontario, Canada</h4>
-                          <p>Duis erat leo, aliquam laoreet fringilla quis, pretium vitae dui.</p>
+                          <p>If you're interested in meeting up, feel free to let me know. </p>
                         </div>
                       </div>
                       
@@ -49,8 +49,8 @@
                           <i class="linecons linecons-mail"></i>
                         </div>
                         <div class="ci-text">
-                          <h4>anushka@a2webhost.com</h4>
-                          <p>Duis erat leo, aliquam laoreet fringilla quis, pretium vitae dui.</p>
+                          <h4>contact@anushkamahalekamge.dev</h4>
+                          <p>If you have a specific inquiry, please feel free to reach out to me via email.</p>
                         </div>
                       </div>
                     </div>
