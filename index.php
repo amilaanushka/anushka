@@ -25,17 +25,17 @@
                               <h4>Web Developer</h4>
                             </div>
 
-                            <!-- <div class="item">
-                              <h4>Web Designer</h4>
+                             <div class="item">
+                              <h4>WordPress Developer</h4>
                             </div>
                             
                             <div class="item">
                               <h4>Web Designer</h4>
                             </div>
                             
-                            <div class="item">
-                              <h4>Web Designer</h4>
-                            </div> -->
+                           <div class="item">
+                              <h4>Digital Analytics Developer</h4>
+                            </div> 
                           </div>
 
                           <h1>Anushka Mahalekamge</h1>

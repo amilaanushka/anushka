@@ -137,7 +137,7 @@ body.ajax-page-visible {
 }
 
 a {
-  color: #396afc;
+  color: #f5f5f5;
   text-decoration: none;
   outline: none;
   -webkit-transition: all .3s ease-in-out;
@@ -148,7 +148,7 @@ a {
 }
 
 a:hover {
-  color: #FF9800;
+  color: #396afc;
   text-decoration: none;
   outline: none;
 }

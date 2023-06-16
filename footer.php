@@ -17,7 +17,7 @@
         </div> -->
 
         <div class="footer-copyrights text-center mx-auto">
-          <p>© <?php echo date("Y"); ?> All rights reserved.</p>
+          <p><a href="https://www.anushkamahalekamge.dev">Anushka Mahalekamge</a> © <?php echo date("Y"); ?> All rights reserved.</p>
         </div>
       </footer>
       <!-- /Footer -->
