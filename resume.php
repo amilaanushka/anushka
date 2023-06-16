@@ -291,13 +291,86 @@
 
                   <div class="row">
                     <div class="col-md-12">
+                    <h3>Have worked with</h3>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-12 col-md-3">
                         <div class="otherskills">
                           <ul class="">
-                            <li>Wix</li>
-                            li
+                          <li>Laravel</li>
+                            <li>Npm</li>
+                            <li>Gulp</li>
+                            <li>GraphQL</li>
+                            <li>MongoDB</li>
+                            <li>Google Firebase</li>
+                            <li>AWS EC2</li>
+                            <li>Cpanel</li>
+                            <li>Plesk</li>
+                            <li>GitHub</li>
+                            
                           </ul>
                         </div>
                     </div>
+
+                    <div class="col-12 col-md-3">
+                        <div class="otherskills">
+                          <ul class="">
+                          <li>MODX CMS</li>
+                            <li>Drupal</li>
+                            <li>Joomla</li>
+                            <li>Magento</li>
+                           <li>PrestaShop</li>
+                            <li>OpenCart</li>
+                            
+                            <li>Wix</li>
+                            <li>Squarespace</li>
+                            <li>Webflow</li>
+                            <li>Mailchimp</li>
+                            <li>SendGrid</li>
+                            
+                           
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-3">
+                        <div class="otherskills">
+                          <ul class="">
+                          <li>Google Analytics(GA4)</li>
+                            <li>Tag Manager</li>
+                            <li>Looker Studio</li>
+                            <li>Optimizely</li>
+                            <li>Google Search Console</li>
+
+                            <li>Hubspot</li>
+                            <li>Atlassian</li>
+                            <li>Slack</li>
+                            <li>Asana</li>
+                            <li>Trello</li>
+                            
+                          </ul>
+                        </div>
+                    </div>
+
+                    
+
+                    <div class="col-12 col-md-3">
+                        <div class="otherskills">
+                          <ul class="">
+                          <li>Adobe XD</li>
+                            <li>Figma</li>
+                            <li>Google Web Designer</li>
+                            <li>Photoshop</li>
+                            <li>Illustrator</li>
+                            <li>Lightroom</li>
+                            <li>Premiere Pro</li>
+                            <li>Dreamweaver</li>
+                            <li>Canva</li>
+                          </ul>
+                        </div>
+                    </div>
+
+
                   </div>
 
               </div>

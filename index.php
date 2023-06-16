@@ -43,7 +43,7 @@
 
                           <div class="home-buttons">
                             <a href="#" target="_blank" class="btn btn-primary">Download Resume</a>
-                            <a href="#" target="_self" class="btn btn-secondary">Contact</a>
+                            <a href="contact.php" target="_self" class="btn btn-secondary">Contact</a>
                           </div>
                         </div>
                       </div>
@@ -226,9 +226,7 @@
 
                       <div class="ci-text">
                         <h4>QA and Testing</h4>
-                        <p>Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit
-                          id volutpat. Vivamus blandit, dolor vitae lacinia maximus, risus velit vehicula odio, a
-                          tincidunt turpis turpis tempus ex.</p>
+                        <p>Delivering comprehensive testing solutions that adhere to industry best practices and rigorous quality standards.</p>
                       </div>
                     </div>
 
