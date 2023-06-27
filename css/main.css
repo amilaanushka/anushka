@@ -1985,6 +1985,10 @@ ul.social-links li:last-child a {
   max-width: 54px;
 }
 
+.timeline-item ul li{
+  font-size: 0.75rem ;
+}
+
 /* /Info List 2 */
 
 /* Timeline */

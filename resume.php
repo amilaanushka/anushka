@@ -1,6 +1,6 @@
 <?php include_once('header.php') ?>
 
-        <div id="main" class="site-main">
+        <div id="main" class="site-main ">
           <div id="main-content" class="single-page-content">
             <div id="primary" class="content-area">
 
@@ -11,7 +11,7 @@
                 </div>
               </div>
 
-              <div id="content" class="page-content site-content single-post" role="main">
+              <div id="content" class="page-content site-content single-post resume" role="main">
                 <div class="row">
 
                 <div class=" col-xs-12 col-sm-6 ">
@@ -24,15 +24,15 @@
                         <h5 class="item-period current">2021 - Current</h5>
                         <span class="item-company">Aegis Wireless - Etobicoke, ON, Canada</span>
                         <h4 class="item-title">Web Developer</h4>
-                        <p>Aegis Wireless is an electronics store based in Etobicoke, Canada which offeres electronics sales,repairs & services</p>
+                        <p>Aegis Wireless is an electronics store based in Etobicoke, Canada which offers electronics sales, repairs, and services</p>
                         <ul>
-                          <li>Developed and maintained online platforms for electronic sales & services</li>
-                          <li>Initiated a inventory management system and conducted an offshore team </li>
-                          <li>Planned, conduct & tested application with the custom business requirement </li>
-                          <li>Implimented different social media and promotional campaigs for products & services</li>
-                          <li>Publish, promote products on 3rd party platforms such as Amazon, Ebay etc.</li>
-                          <li>Tracked website performances, drop-offs and maintained web platforms with continuious improvements</li>
-                          <li>Repaired laptops, TVs and provided hardware,software assistance for custamers</li>
+                          <li>Developed and maintained web platforms for electronic sales and services</li>
+                          <li>Initiated an inventory management system and established an offshore development team </li>
+                          <li>Planned, conducted, and tested applications which had custom business requirements </li>
+                          <li>Tracked website performance, analyzed drop-offs, and made continuous improvements</li>
+                          <li>Published and promoted products on third-party platforms like Amazon, eBay, etc.</li>
+                          <li>Implemented various social media and promotional campaigns for products and services</li>
+                          <li>Repaired laptops and TVs, provided hardware and software assistance to customers</li>
                         </ul>
                       </div>
 
@@ -40,17 +40,17 @@
                         <h5 class="item-period ">2016 - 2021</h5>
                         <span class="item-company">Enfection Pvt Ltd. - Colombo, Sri Lanka</span>
                         <h4 class="item-title">Associate Lead Web Development</h4>
-                        <p>Maecenas tempus faucibus rutrum. Duis eu aliquam urna. Proin vitae nulla tristique, ornare felis id, congue libero. Nam volutpat euismod quam.</p>
+                        <p>Enfection is an dynamic Digital marketing agency startup based in colombo, Sri Lanka serving many renowned local and international brands</p>
                         <ul>
-                          <li>Consulted with clients to develop and document Website requirements, planned project resources & timelines</li>
-                          <li>Lead the Front-end team by assigning daily tasks, tracking progress & delivering fully tested outcomes</li>
-                          <li>Created fully custom built WordPress, PHP, Laravel websites as per UI designs provided</li>
-                          <li>Worked on an e-learning platform built from groundup on WordPress CMS </li>
-                          <li>Developed & maintained muliple client projects at the sametime using available resources </li>
-                          <li>optimized websites for search engines, performance and enhanced website security on client websites</li>
-                          <li>Developed and test marketing e-mail materials(EDM) and broadcasted e-mail campaigns</li>
-                          <li>Integrated website tracking(E-commerce, goal setup, conversions etc.) for client websites using GA,tag manager etc.  </li>
-                          <li>Created and maintaned documentations, reports, and conduct client informational sessions</li>
+                          <li>Consulted with clients to develop and document website requirements, and planned project resources and timelines.</li>
+                          <li>Led the front-end team by assigning daily tasks, tracking progress, and delivering fully tested outcomes</li>
+                          <li>Created custom-built WordPress, PHP, and Laravel websites based on provided UI designs</li>
+                          <li>Worked on an e-learning platform built from the ground up using WordPress CMS </li>
+                          <li>Developed and maintained multiple client projects simultaneously</li>
+                          <li>Optimized websites for search engines, performance, and enhanced website security</li>
+                          <li>Developed and tested marketing email materials (EDM) and conducted email campaigns</li>
+                          <li>Implemented website tracking (e-commerce, goal setup, conversions, etc.) for client websites using GA, tag manager, etc </li>
+                          <li>Created and maintained documentation, reports, and client informational sessions</li>
                         </ul>
                       </div>
 
@@ -58,21 +58,41 @@
                         <h5 class="item-period ">2014 - 2016</h5>
                         <span class="item-company">Traverse Lanka Pvt Ltd. - Kandada, Sri Lanka</span>
                         <h4 class="item-title">Web Administrator</h4>
-                        <p>Duis mollis nunc quis quam viverra venenatis. Nulla nulla arcu, congue vitae nunc ac, sodales ultricies diam. Nullam justo leo, tincidunt sit amet.</p>
+                        <p>Traverse Lanka was a tourist operator located in Kandana Srilanka</p>
+                        <ul>
+                        <li>Created and maintained web booking platforms</li>
+                        <li>Managed third-party client booking and listing platforms</li>
+                        <li>Arranged content, graphics, etc., and promoted them on multiple platforms</li>
+                        <li>Listened to and coordinated client queries, hosts, travel partners, and management queries</li>
+                        <li>Conducted social, search, and display ad campaigns</li>
+                        </ul>
                       </div>
 
                       <div class="timeline-item clearfix">
                         <h5 class="item-period ">2012 - 2014</h5>
                         <span class="item-company">Barclays Computers Pvt Ltd. - Colombo, Sri Lanka</span>
                         <h4 class="item-title">Trainee Web Developer</h4>
-                        <p>Duis mollis nunc quis quam viverra venenatis. Nulla nulla arcu, congue vitae nunc ac, sodales ultricies diam. Nullam justo leo, tincidunt sit amet.</p>
+                        <p>Barclays computers is one of the largest computers, laptops, accesorries importer & repairs, service provider in colombo Sri Lanka</p>
+                        <ul>
+                        <li>Developed and maintained websites for the company and its subsidiaries</li>
+                        <li>Developed and maintained a Magento-based e-commerce site for selling real-time software licenses</li>
+                        <li>Optimized web platforms for search engines, enhanced website security, and performance</li>
+                        <li>Maintained all social media platforms, promotional campaigns, email campaigns, and SMS campaigns</li>
+                        <li>Designed web and printing materials according to branding requirements </li>
+                        </ul>
                       </div>
 
                       <div class="timeline-item clearfix">
                         <h5 class="item-period ">2011 - 2012</h5>
                         <span class="item-company">Wise International School - Kandada, Sri Lanka</span>
                         <h4 class="item-title">ICT Teacher (Part-time)</h4>
-                        <p>Wise Internatianal school is an </p>
+                        <p>Wise Internatianal school is an uprising edexcel advanced sylabus teaching school located in Kandana, Sri Lanka </p>
+                        <ul>
+                        <li>Taught information & communication technology for Grades 4,5,6,8</li>
+                        <li>Demonstrated & participated students practical lessons of computer hardware & software </li>
+                        <li>Created & managed school website</li>
+                        <li>Arraged exam papers & conducted quizes during each module</li>
+                        </ul>
                       </div>
 
                     </div>
@@ -87,22 +107,102 @@
                       <div class="timeline-item clearfix">
                         <h5 class="item-period ">2022</h5>
                         <span class="item-company">Conestoga College - Kitcherner, ON, Canada</span>
-                        <h4 class="item-title">Web Development</h4>
-                        <p>Ontario College Graduate Certificate program is designed to provide hands-on, comprehensive training for those who desire to work in the field of web-centric business application development. The primary focus of the program is on user-centered design supported by extensive back-end programming and front-end use of graphic design, multimedia, video, animation, and e-commerce applications to facilitate a fully functional website.</p>
+                        <h4 class="item-title">Web Development - (Full-time)</h4>
+                        <p>The primary focus of the program is on user-centered design supported by extensive back-end programming and front-end use of graphic design, multimedia, video, animation, and e-commerce applications to facilitate a fully functional website.</p>
+                        <div class="row">
+                          <div class="col-md-6">
+                          <ul>
+                          <h4>Level 1</h4>
+                          <li>Responsive Site Design</li>
+                          <li>Digital Design and User Interaction</li>
+                          <li>Database Design</li>
+                          <li>Requirements Development</li>
+                          <li>Project Management</li>
+                          <li>JavaScript Programming</li>
+                        </ul>
+                          </div>
+                          <div class="col-md-6">
+                          <ul>
+                          <h4>Level 2</h4>
+                          <li>Advanced Database Design</li>
+                          <li>Advanced Responsive Site Design</li>
+                          <li>Full-Stack Programming</li>
+                          <li>Advanced JavaScript Programming</li>
+                          <li>Mobile Application Development</li>
+                        </ul>
+                          </div>
+                        </div>
+                        <div class="row">
+                          <div class="col-md-6">
+                          <ul>
+                          <h4>Level 3</h4>
+                          <li>Advanced Mobile Application Development</li>
+                          <li>Programming with .NET</li>
+                          <li>PHP Programming with MySQL</li>
+                          <li>Advanced Full-Stack Programming</li>
+                          <li>Web Traffic and Search Engine Optimization</li>
+                        </ul>
+                          </div>
+                          <div class="col-md-6">
+                          <ul>
+                          <h4>Level 4</h4>
+                          <li>Career Management</li>
+                          <li>Management and Leadership Essentials</li>
+                          <li>Capstone (Web Development)</li>
+                          <li>Web Content Management Systems</li>
+                          <li>Advanced Programming with .NET</li>
+                          <li>Trends in Web Technology</li>
+                          <li>Website Security and Quality Assurance</li>
+                        </ul>
+                          </div>
+                        </div>
                       </div>
 
                       <div class="timeline-item clearfix">
-                        <h5 class="item-period ">2008</h5>
+                        <h5 class="item-period ">2014</h5>
                         <span class="item-company">British Computer Society partnered with Esoft Metro Campus - Sri Lanka</span>
                         <h4 class="item-title">BCS Higher education qualifications (HEQ)</h4>
-                        <p>Aliquam tincidunt malesuada tortor vitae iaculis. In eu turpis iaculis, feugiat risus quis, aliquet urna. Quisque fringilla mollis risus, eu pulvinar dolor.</p>
+                        <p>HEQ is the higher education qualification programme from BCS, The Chartered Institute for IT, offering three modular study levels, each accredited by the UK government regulator, the Office of Qualifications and Examinations Regulation (OFQUAL), with the highest examined at degree level.</p>
+                        <div class="row">
+                          <div class="col-md-6">
+                          <ul>
+                          <h4>Certificate in IT</h4>
+                          <li>Information Systems </li>
+                          <li>Computer and Network Technology</li>
+                          <li>Software Development</li>
+                        </ul>
+                          </div>
+                          <div class="col-md-6">
+                          <ul>
+                          <h4>Diploma in IT</h4>
+                          <li>Professional Issues in IS Practice</li>
+                          <li>IT Project Management</li>
+                          <li>Object Oriented Programming</li>
+                          <li>Principals of Internet Technologies</li>
+                        </ul>
+                          </div>
+                        </div>
+                        <div class="row">
+                          <div class="col-md-6">
+                          <ul>
+                          <h4>Professional Graduate Diploma (PGD) in IT</h4>
+                          <li>Advanced Database Management Systems </li>
+                          <li>Management Information Systems</li>
+                          <li>Software Engineering 2</li>
+                          <li>Web Engineering</li>
+                        </ul>
+                          </div>
+                        </div>
                       </div>
 
                       <div class="timeline-item clearfix">
-                        <h5 class="item-period ">2007</h5>
-                        <span class="item-company">University of Studies</span>
-                        <h4 class="item-title">Frontend Development</h4>
-                        <p>Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis ante.</p>
+                        <h5 class="item-period ">2011</h5>
+                        <span class="item-company">Seventh-day Adventist High School - Kandana, Sri Lanka</span>
+                        <h4 class="item-title">High School</h4>
+                        <ul>
+                        <li>G.C.E Advanced Level - 2011</li>
+                        <li>G.C.E Ordinary Level - 2008</li>
+                        </ul>
                       </div>
 
                     </div>
@@ -124,22 +224,22 @@
 
                 <div class="row">
                   <div class=" col-xs-12 col-sm-6 ">
-                    <a href="//lmpixels.com/wp/leven-wp/wp-content/uploads/2019/11/1.jpg" class="lightbox">
+                    <a href="img/certificates/Course_Certificate_UA.jpg" class="lightbox">
                       <div class="certificate-item clearfix">
                         <div class="certi-logo">
-                          <img src="./img/clients/client-7.png" alt="logo">
+                          <img src="img/certificates/icons/GA.png" alt="logo">
                         </div>
 
                         <div class="certi-content">
                           <div class="certi-title">
-                            <h4>Psyhology of Intertnation Design</h4>
+                            <h4>Google Analytics for Biginners(Universal Analytics)</h4>
                           </div>
 
-                          <div class="certi-id">
+                          <!-- <div class="certi-id">
                             <span>Membership ID: XXXX</span>
-                          </div>
+                          </div> -->
                           <div class="certi-date">
-                            <span>19 April 2018</span>
+                            <span>18 February 2024</span>
                           </div>
 
                           <div class="certi-company">
@@ -151,23 +251,23 @@
                   </div>
 
                   <div class=" col-xs-12 col-sm-6 ">
-                    <a href="//lmpixels.com/wp/leven-wp/wp-content/uploads/2019/11/1.jpg" class="lightbox">
+                    <a href="img/certificates/Course_Certificate_AA.jpg" class="lightbox">
                       <div class="certificate-item clearfix">
                         <div class="certi-logo">
-                          <img src="//lmpixels.com/wp/leven-wp/wp-content/uploads/2019/12/client-1.png" alt="logo">
+                          <img src="img/certificates/icons/GA.png" alt="logo">
                         </div>
 
                         <div class="certi-content">
                           <div class="certi-title">
-                            <h4>Psyhology of Intertnation Design</h4>
+                            <h4>Advanced Google Analytics(Universal Analytics)</h4>
                           </div>
 
-                          <div class="certi-id">
+                          <!-- <div class="certi-id">
                             <span>Membership ID: XXXX</span>
-                          </div>
+                          </div> -->
 
                           <div class="certi-date">
-                            <span>19 April 2018</span>
+                            <span>28 February 2024</span>
                           </div>
 
                           <div class="certi-company">

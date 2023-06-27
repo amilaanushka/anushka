@@ -35,7 +35,11 @@
                             
                            <div class="item">
                               <h4>Digital Analytics Developer</h4>
-                            </div> 
+                            </div>
+                            <div class="item">
+                              <h4>Website Manager </h4>
+                            </div>
+                            
                           </div>
 
                           <h1>Anushka Mahalekamge</h1>
