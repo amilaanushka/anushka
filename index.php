@@ -39,7 +39,7 @@
                           </div>
 
                           <h1>Anushka Mahalekamge</h1>
-                          <p>Solution-oriented, innovative task driven professional with 7+ years of experience building and maintaining high-performance web sites,applications and CMS across diverse industries. With a solid background in Web development, I'm a self motivated, results-driven, collaborative developer with a focus on delivering exceptional solutions that meet business objectives.</p>
+                          <p>Solution-oriented, innovative task driven professional with 7+ years of experience building and maintaining high-performance web sites, applications and CMS across diverse industries. With a solid background in Web development, I'm a self motivated, results-driven, collaborative developer with a focus on delivering exceptional solutions that meet business objectives.</p>
 
                           <div class="home-buttons">
                             <a href="#" target="_blank" class="btn btn-primary">Download Resume</a>
