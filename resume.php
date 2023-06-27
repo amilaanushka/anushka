@@ -88,10 +88,10 @@
                         <h4 class="item-title">ICT Teacher (Part-time)</h4>
                         <p>Wise Internatianal school is an uprising edexcel advanced sylabus teaching school located in Kandana, Sri Lanka </p>
                         <ul>
-                        <li>Taught information & communication technology for Grades 4,5,6,8</li>
-                        <li>Demonstrated & participated students practical lessons of computer hardware & software </li>
-                        <li>Created & managed school website</li>
-                        <li>Arraged exam papers & conducted quizes during each module</li>
+                        <li>Taught Information & Communication Technology for Grades 4, 5, 6, and 8</li>
+                        <li>Conducted practical lessons on computer hardware and software for students </li>
+                        <li>Deeveloped and managed the school website</li>
+                        <li>Arranged exam papers and conducted quizzes during each module</li>
                         </ul>
                       </div>
 
