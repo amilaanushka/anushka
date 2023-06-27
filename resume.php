@@ -24,7 +24,16 @@
                         <h5 class="item-period current">2021 - Current</h5>
                         <span class="item-company">Aegis Wireless - Etobicoke, ON, Canada</span>
                         <h4 class="item-title">Web Developer</h4>
-                        <p>Praesent dignissim sollicitudin justo, sed elementum quam lacinia quis. Phasellus eleifend tristique posuere. Sed vitae dui nec magna.</p>
+                        <p>Aegis Wireless is an electronics store based in Etobicoke, Canada which offeres electronics sales,repairs & services</p>
+                        <ul>
+                          <li>Developed and maintained online platforms for electronic sales & services</li>
+                          <li>Initiated a inventory management system and conducted an offshore team </li>
+                          <li>Planned, conduct & tested application with the custom business requirement </li>
+                          <li>Implimented different social media and promotional campaigs for products & services</li>
+                          <li>Publish, promote products on 3rd party platforms such as Amazon, Ebay etc.</li>
+                          <li>Tracked website performances, drop-offs and maintained web platforms with continuious improvements</li>
+                          <li>Repaired laptops, TVs and provided hardware,software assistance for custamers</li>
+                        </ul>
                       </div>
 
                       <div class="timeline-item clearfix">
@@ -32,6 +41,17 @@
                         <span class="item-company">Enfection Pvt Ltd. - Colombo, Sri Lanka</span>
                         <h4 class="item-title">Associate Lead Web Development</h4>
                         <p>Maecenas tempus faucibus rutrum. Duis eu aliquam urna. Proin vitae nulla tristique, ornare felis id, congue libero. Nam volutpat euismod quam.</p>
+                        <ul>
+                          <li>Consulted with clients to develop and document Website requirements, planned project resources & timelines</li>
+                          <li>Lead the Front-end team by assigning daily tasks, tracking progress & delivering fully tested outcomes</li>
+                          <li>Created fully custom built WordPress, PHP, Laravel websites as per UI designs provided</li>
+                          <li>Worked on an e-learning platform built from groundup on WordPress CMS </li>
+                          <li>Developed & maintained muliple client projects at the sametime using available resources </li>
+                          <li>optimized websites for search engines, performance and enhanced website security on client websites</li>
+                          <li>Developed and test marketing e-mail materials(EDM) and broadcasted e-mail campaigns</li>
+                          <li>Integrated website tracking(E-commerce, goal setup, conversions etc.) for client websites using GA,tag manager etc.  </li>
+                          <li>Created and maintaned documentations, reports, and conduct client informational sessions</li>
+                        </ul>
                       </div>
 
                       <div class="timeline-item clearfix">
@@ -52,7 +72,7 @@
                         <h5 class="item-period ">2011 - 2012</h5>
                         <span class="item-company">Wise International School - Kandada, Sri Lanka</span>
                         <h4 class="item-title">ICT Teacher (Part-time)</h4>
-                        <p>Duis mollis nunc quis quam viverra venenatis. Nulla nulla arcu, congue vitae nunc ac, sodales ultricies diam. Nullam justo leo, tincidunt sit amet.</p>
+                        <p>Wise Internatianal school is an </p>
                       </div>
 
                     </div>
