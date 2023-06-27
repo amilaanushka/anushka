@@ -113,7 +113,7 @@
 
                       <div class="ci-text">
                         <h4>Ecommerce</h4>
-                        <p>Enabling businesses or personals to establish and expand their online presence, capitalize on the growing digital marketplace, and drive revenue through online sales</p>
+                        <p>Enabling businesses or personals to establish and expand their online presence, capitalize on the growing digital marketplace, and drive revenue with online sales through best e-commerce solutions which caters to each business requirements</p>
                       </div>
                     </div>
                   </div>
@@ -129,9 +129,7 @@
 
                       <div class="ci-text">
                         <h4>Email Template development</h4>
-                        <p>Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit
-                          id volutpat. Vivamus blandit, dolor vitae lacinia maximus, risus velit vehicula odio, a
-                          tincidunt turpis turpis tempus ex.</p>
+                        <p>Designing and coding customized emails, EDM templates, newsletters that align with branding guidelines and objectives. Also, optimizing and testing them in various platforms to drive customer engagement and conversions</p>
                       </div>
                     </div>
 
@@ -142,9 +140,7 @@
 
                       <div class="ci-text">
                         <h4>Search Engine Optimization</h4>
-                        <p>Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit
-                          id volutpat. Vivamus blandit, dolor vitae lacinia maximus, risus velit vehicula odio, a
-                          tincidunt turpis turpis tempus ex.</p>
+                        <p>Optimizing websites and digital content to align with search engine algorithms and user search intent by closely monitoring industry trends and algorithms, conducting comprehensive keyword research, on-page optimizations, link building, improving UX and responsiveness. </p>
                       </div>
                     </div>
 
@@ -162,9 +158,7 @@
 
                       <div class="ci-text">
                         <h4>Web site tracking</h4>
-                        <p>Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit
-                          id volutpat. Vivamus blandit, dolor vitae lacinia maximus, risus velit vehicula odio, a
-                          tincidunt turpis turpis tempus ex.</p>
+                        <p>Implementing robust tracking mechanisms and tools to gather and analyze data related to website visitors by integrating GA, Tag Manager, Looker studio to set up tracking codes, tags, conversions/goals and generate meaningful reports and visualizations.</p>
                       </div>
                     </div>
 
@@ -175,9 +169,7 @@
 
                       <div class="ci-text">
                         <h4>Website security</h4>
-                        <p>Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit
-                          id volutpat. Vivamus blandit, dolor vitae lacinia maximus, risus velit vehicula odio, a
-                          tincidunt turpis turpis tempus ex.</p>
+                        <p>Implementing robust security measures to safeguard websites from unauthorized access, data breaches, malware, and other cyber threats by conducting thorough audits and vulnerability assessments to identify potential risks and vulnerabilities and continuously setting up maximum safeguard.</p>
                       </div>
                     </div>
                    
@@ -194,10 +186,8 @@
                       </div>
 
                       <div class="ci-text">
-                        <h4> Web Hosting/Maintanance</h4>
-                        <p>Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit
-                          id volutpat. Vivamus blandit, dolor vitae lacinia maximus, risus velit vehicula odio, a
-                          tincidunt turpis turpis tempus ex.</p>
+                        <h4> Web Hosting & Maintanance</h4>
+                        <p>Setting up reliable server infrastructure to ensure websites are consistently accessible, secure, and up-to-date. Also, maintaining websites with routine updates, security patches, and performance optimizations to ensure websites remain secure, fast, and compatible with evolving technologies.</p>
                       </div>
                     </div>
 
@@ -208,9 +198,7 @@
 
                       <div class="ci-text">
                         <h4> Digital Marketing</h4>
-                        <p>Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit
-                          id volutpat. Vivamus blandit, dolor vitae lacinia maximus, risus velit vehicula odio, a
-                          tincidunt turpis turpis tempus ex.</p>
+                        <p>Leveraging various digital channels to reach and engage the right audience by utilizing pay-per-click (PPC) advertising, social media marketing, content marketing, and email marketing, to enhance brand awareness, generate leads, and increase conversions.</p>
                       </div>
                     </div>
                   </div>
@@ -226,7 +214,7 @@
 
                       <div class="ci-text">
                         <h4>QA and Testing</h4>
-                        <p>Delivering comprehensive testing solutions that adhere to industry best practices and rigorous quality standards.</p>
+                        <p>Delivering comprehensive testing solutions that adhere to industry best practices and rigorous quality standards by assessing all aspects of the website, including its design, functionality, navigation, responsiveness, and compatibility across different devices and browsers</p>
                       </div>
                     </div>
 
@@ -237,7 +225,7 @@
 
                       <div class="ci-text">
                         <h4>IT Support</h4>
-                        <p>Day to day computer Hardware/software issues, laptop & desktop repairs, troubleshooting, part replacement etc..</p>
+                        <p>Diagnosing and resolving computer issues across various platforms and operating systems, computer Hardware/software issues, laptop & desktop repairs, troubleshooting, brocken part replacement etc..</p>
                       </div>
                     </div>
 
