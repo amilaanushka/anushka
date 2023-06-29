@@ -7,7 +7,7 @@
               <div class="page-title">
                 <!-- <h1>Resume</h1> -->
                 <div class="page-subtitle">
-                    <h4> 7+ Years of Experience</h4>
+                    <h4> 7+ Years of Experience as Web Developer</h4>
                 </div>
               </div>
 
