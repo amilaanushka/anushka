@@ -6,9 +6,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>Anushka Mahalekamge - Web designer, Developer, SEO consult, Website Analyst</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <meta name="description" content="Leven - Resume / CV / vCard Template" />
-  <meta name="keywords" content="vcard, resposnive, retina, resume, jquery, css3, bootstrap, portfolio" />
-  <meta name="author" content="lmpixels" />
+  <meta name="description" content="Anushka Mahalekamge - Web designer, Developer, SEO consult, Website Analyst" />
+  <meta name="keywords" content="Anushka Mahalekamge, web developer, Designer, WordPress Developer, Digital Analyst, SEO consult, portfolio" />
+  <meta name="author" content="Anushka Mahalekamge" />
 
   <!-- Favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png">
