@@ -28,28 +28,26 @@
                         </li>
                         
                         <li>
-                          <a class="filter btn btn-sm btn-link" data-group="category_direct-url">Direct URL</a>
-                        </li>
-                        
-                        <li>
-                          <a class="filter btn btn-sm btn-link" data-group="category_image">Image</a>
-                        </li>
-                        
-                        <li>
-                          <a class="filter btn btn-sm btn-link" data-group="category_soundcloud">SoundCloud</a>
+                          <a class="filter btn btn-sm btn-link" data-group="wordpress">WordPress</a>
                         </li>
 
                         <li>
-                          <a class="filter btn btn-sm btn-link" data-group="category_video">Video</a>
+                          <a class="filter btn btn-sm btn-link" data-group="e-commerce">E-commerce</a>
+                        </li>
+
+                        <li>
+                        <a class="filter btn btn-sm btn-link" data-group="landing_page">Landing Pages</a>
                         </li>
                         
                         <li>
-                          <a class="filter btn btn-sm btn-link" data-group="category_vimeo-video">Vimeo Video</a>
+                          <a class="filter btn btn-sm btn-link" data-group="eDMs">eDMs/Newsletters</a>
+                        </li>
+
+                        <li>
+                          <a class="filter btn btn-sm btn-link" data-group="others">Others</a>
                         </li>
                         
-                        <li>
-                          <a class="filter btn btn-sm btn-link" data-group="category_youtube-video">YouTube Video</a>
-                        </li>
+                      
                       </ul>
       
       
@@ -70,15 +68,15 @@
                         <!-- /Portfolio Item 1 -->
 
                         <!-- Portfolio Item 2 -->
-                        <figure class="item lbvideo" data-groups='["category_all", "category_video", "category_youtube-video"]'>
-                            <div class="portfolio-item-img">
-                              <img src="./img/portfolio/1.jpg" alt="YouTube Video 2" title="" />
-                              <a href="https://www.youtube.com/embed/F-1weFCiYBA" class="lightbox mfp-iframe" title="YouTube Video 2"></a>
-                            </div>
+                        <figure class="item standard" data-groups='["category_all", "websites"]'>
+                          <div class="portfolio-item-img">
+                            <img src="./img/portfolio/magicbox.jpg" alt="magicbox" title="" />
+                            <a href="portfolio_magicbox.html" class="ajax-page-load"></a>
+                          </div>
 
-                            <i class="fab fa-youtube"></i>
-                            <h4 class="name">YouTube Video 2</h4>
-                            <span class="category">Video, YouTube Video</span>
+                          <i class="far fa-file-alt"></i>
+                          <h4 class="name">Empower Women Health</h4>
+                          <span class="category">Detailed</span>
                         </figure>
                         <!-- /Portfolio Item 2 -->
 

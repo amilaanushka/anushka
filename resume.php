@@ -206,9 +206,7 @@
                       </div>
 
                     </div>
-                  </div>
-
-                  
+                  </div>   
 
                 </div>
 
@@ -287,127 +285,194 @@
                 </div>
 
                 <div class="row">
-
-                <div class=" col-xs-12 col-sm-6 ">
-                    <div class="block-title">
-                      <h2>Coding Skills</h2>
+                  <div class=" col-xs-12 col-sm-12 ">
+                    <div class="p-40"></div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class=" col-xs-12 col-sm-12 ">
+                  <div class="block-title">
+                    <h2>My Skills</h2>
                     </div>
+                  </div>
+                </div>
 
+                <div class="row">
+                  <div class=" col-xs-12 col-sm-6 ">
+                   
 
                     <div id="skills_1" class="skills-info skills-first-style">
-                     
+                      <!-- Skill 1 -->
                       <div class="clearfix">
-                        <h4>HTML</h4>
+                        <h4>HTML5 / CSS3</h4>
                         <div class="skill-value">99%</div>
                       </div>
+
                       <div id="skill_1" data-value="99" class="skill-container">
                         <div class="skill-percentage"></div>
                       </div>
+                      <!-- /Skill 1 -->
+                      
+                      <!-- Skill 2 -->
                       <div class="clearfix">
-                        <h4>CSS</h4>
-                        <div class="skill-value">99%</div>
-                      </div>
-                      <div id="skill_5" data-value="99" class="skill-container">
-                        <div class="skill-percentage"></div>
-                      </div>
-                       <div class="clearfix">
                         <h4>Bootstrap</h4>
-                        <div class="skill-value">99%</div>
+                        <div class="skill-value">95%</div>
                       </div>
-                      <div id="skill_5" data-value="99" class="skill-container">
+                      
+                      <div id="skill_2" data-value="95" class="skill-container">
                         <div class="skill-percentage"></div>
                       </div>
-                        <div class="clearfix">
+                      <!-- /Skill 2 -->
+
+                      <!-- Skill 3 -->
+                      <div class="clearfix">
                         <h4>SCSS/LESS</h4>
                         <div class="skill-value">90%</div>
                       </div>
-                      <div id="skill_5" data-value="90" class="skill-container">
+                      <div id="skill_3" data-value="90" class="skill-container">
                         <div class="skill-percentage"></div>
                       </div>
+                      <!-- Skill 3 -->
 
-                      <div class="clearfix">
-                        <h4>JavaScript</h4>
-                        <div class="skill-value">90%</div>
-                      </div>
-                      <div id="skill_7" data-value="90" class="skill-container">
-                        <div class="skill-percentage"></div>
-                      </div>
-
-                      <div class="clearfix">
-                        <h4>React</h4>
-                        <div class="skill-value">40%</div>
-                      </div>
-                      <div id="skill_7" data-value="40" class="skill-container">
-                        <div class="skill-percentage"></div>
-                      </div>
-                     
+                      <!-- Skill 4 -->
                       <div class="clearfix">
                         <h4>PHP/MYSQL</h4>
-                        <div class="skill-value">90%</div>
-                      </div>
-                      <div id="skill_6" data-value="90" class="skill-container">
-                        <div class="skill-percentage"></div>
-                      </div>
-                     
-                     
-                      
-                      <div class="clearfix">
-                        <h4>Smarty / Twig</h4>
-                        <div class="skill-value">85%</div>
-                      </div>
-                      <div id="skill_8" data-value="85" class="skill-container">
-                        <div class="skill-percentage"></div>
-                      </div>
-                     
-                    </div>
-                  </div>
-
-                <div class=" col-xs-12 col-sm-6 ">
-                    <div class="block-title">
-                      <h2>Design Skills</h2>
-                    </div>
-
-                    <div id="skills_1" class="skills-info skills-first-style">
-                     
-                      <div class="clearfix">
-                        <h4>UI/UX Design</h4>
-                        <div class="skill-value">90%</div>
-                      </div>
-
-                      <div id="skill_1" data-value="90" class="skill-container">
-                        <div class="skill-percentage"></div>
-                      </div>
-                     
-                      <div class="clearfix">
-                        <h4>Print Design</h4>
-                        <div class="skill-value">75%</div>
-                      </div>
-                      
-                      <div id="skill_2" data-value="75" class="skill-container">
-                        <div class="skill-percentage"></div>
-                      </div>
-                      
-                      <div class="clearfix">
-                        <h4>Graphic Design</h4>
-                        <div class="skill-value">85%</div>
-                      </div>
-                      <div id="skill_3" data-value="85" class="skill-container">
-                        <div class="skill-percentage"></div>
-                      </div>
-                      
-                      <div class="clearfix">
-                        <h4>Logo Design</h4>
                         <div class="skill-value">90%</div>
                       </div>
                       <div id="skill_4" data-value="90" class="skill-container">
                         <div class="skill-percentage"></div>
                       </div>
-                      
+                      <!-- /Skill 4 -->
+
+                       <!-- Skill 5 -->
+                       <div class="clearfix">
+                        <h4>WordPress</h4>
+                        <div class="skill-value">95%</div>
+                      </div>
+                      <div id="skill_5" data-value="95" class="skill-container">
+                        <div class="skill-percentage"></div>
+                      </div>
+                      <!-- /Skill 5 -->
+
+                       <!-- Skill 6 -->
+                       <div class="clearfix">
+                        <h4> React</h4>
+                        <div class="skill-value">40%</div>
+                      </div>
+                      <div id="skill_6" data-value="40" class="skill-container">
+                        <div class="skill-percentage"></div>
+                      </div>
+                      <!-- /Skill 6 -->
+
+                       <!-- Skill 7 -->
+                      <!--  <div class="clearfix">
+                        <h4>mongo</h4>
+                        <div class="skill-value">80%</div>
+                      </div>
+                      <div id="skill_7" data-value="80" class="skill-container">
+                        <div class="skill-percentage"></div>
+                      </div> -->
+                      <!-- /Skill 7 -->
+
+                      <!-- Skill 8 -->
+                      <!-- <div class="clearfix">
+                        <h4>React</h4>
+                        <div class="skill-value">40%</div>
+                      </div>
+                      <div id="skill_8" data-value="40" class="skill-container">
+                        <div class="skill-percentage"></div>
+                      </div> -->
+                      <!-- /Skill 8 -->
+                       <!-- Skill 9 -->
+                      <!--  <div class="clearfix">
+                        <h4>Bootstrap</h4>
+                        <div class="skill-value">95%</div>
+                      </div>
+                      <div id="skill_9" data-value="95" class="skill-container">
+                        <div class="skill-percentage"></div>
+                      </div> -->
+                      <!-- /Skill 9 -->
+
+
                     </div>
 
                   </div>
 
+
+                  <div class=" col-xs-12 col-sm-6 ">
+
+                    <div id="skills_2" class="skills-info skills-first-style">
+                     
+
+                     
+
+                      <!-- Skill 10 -->
+                      <div class="clearfix">
+                        <h4>UI/UX Design</h4>
+                        <div class="skill-value">70%</div>
+                      </div>
+                      <div id="skill_10" data-value="70" class="skill-container">
+                        <div class="skill-percentage"></div>
+                      </div>
+                      <!-- /Skill 10 -->
+
+                      <!-- Skill 11 -->
+                      <div class="clearfix">
+                        <h4>EDM/Newsletter Development</h4>
+                        <div class="skill-value">90%</div>
+                      </div>
+                      <div id="skill_11" data-value="90" class="skill-container">
+                        <div class="skill-percentage"></div>
+                      </div>
+                      <!-- /Skill 11 -->
+                       <!-- Skill 12 -->
+                       <div class="clearfix">
+                        <h4>Website Tracking</h4>
+                        <div class="skill-value">90%</div>
+                      </div>
+                      <div id="skill_12" data-value="90" class="skill-container">
+                        <div class="skill-percentage"></div>
+                      </div>
+                      <!-- /Skill 12 -->
+
+                       <!-- Skill 13 -->
+                       <div class="clearfix">
+                        <h4>Website Security</h4>
+                        <div class="skill-value">70%</div>
+                      </div>
+                      <div id="skill_13" data-value="70" class="skill-container">
+                        <div class="skill-percentage"></div>
+                      </div>
+                      <!-- /Skill 13 -->
+
+                       <!-- Skill 14 -->
+                       <div class="clearfix">
+                        <h4>Search Engine Optimization</h4>
+                        <div class="skill-value">75%</div>
+                      </div>
+                      <div id="skill_14" data-value="75" class="skill-container">
+                        <div class="skill-percentage"></div>
+                      </div>
+                      <!-- /Skill 14 -->
+
+                       <!-- Skill 15 -->
+                       <div class="clearfix">
+                        <h4>Web Graphics</h4>
+                        <div class="skill-value">70%</div>
+                      </div>
+                      <div id="skill_15" data-value="70" class="skill-container">
+                        <div class="skill-percentage"></div>
+                      </div>
+                      <!-- /Skill 15 -->
+
+                    </div>
                   </div>
+
+                </div>
+
+               
+
+                  
 
                   <div class="row">
                     <div class="col-md-12">
@@ -493,7 +558,8 @@
 
                   </div>
 
-              </div>
+              
+                </div>
             </div>
           </div>
         </div>
