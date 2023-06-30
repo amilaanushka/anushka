@@ -5986,4 +5986,6 @@ a.post-thumbnail:hover {
     background-color: #396afc;
     color: #fff;
 }
-#ajax-page-close-button : :hover
+#ajax-page-close-button :hover{
+  color: #000;
+}
