@@ -5980,3 +5980,10 @@ a.post-thumbnail:hover {
     bottom: 0;
   }
 }
+
+/* additional updates */
+#ajax-page-close-button {
+    background-color: #396afc;
+    color: #fff;
+}
+#ajax-page-close-button : :hover
