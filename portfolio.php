@@ -58,7 +58,7 @@
                         <figure class="item standard" data-groups='["category_all", "websites"]'>
                           <div class="portfolio-item-img">
                             <img src="./img/portfolio/magicbox.jpg" alt="magicbox" title="" />
-                            <a href="portfolio_magicbox.html" class="ajax-page-load"></a>
+                            <a href="portfolio/magicbox.php" class="ajax-page-load"></a>
                           </div>
 
                           <i class="far fa-file-alt"></i>
@@ -67,11 +67,24 @@
                         </figure>
                         <!-- /Portfolio Item -->
 
+                         <!-- Portfolio Item -->
+                         <figure class="item standard" data-groups='["category_all", "websites"]'>
+                          <div class="portfolio-item-img">
+                            <img src="./img/portfolio/empowerwomenhealth.jpg" alt="Empower Women Health" title="" />
+                            <a href="portfolio/aegiswireless.php" class="ajax-page-load"></a>
+                          </div>
+
+                          <i class="far fa-file-alt"></i>
+                          <h4 class="name">Aegis Wireless</h4>
+                          <span class="category">Detailed</span>
+                        </figure>
+                        <!-- /Portfolio Item -->
+
                         <!-- Portfolio Item -->
                         <figure class="item standard" data-groups='["category_all", "websites"]'>
                           <div class="portfolio-item-img">
                             <img src="./img/portfolio/empowerwomenhealth.jpg" alt="Empower Women Health" title="" />
-                            <a href="portfolio-empowerwomenhealth.html" class="ajax-page-load"></a>
+                            <a href="portfolio/aegiswireless.php" class="ajax-page-load"></a>
                           </div>
 
                           <i class="far fa-file-alt"></i>
