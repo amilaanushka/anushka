@@ -55,7 +55,7 @@
                       <div class="portfolio-grid four-columns shuffle">
 
                         <!-- Portfolio Item -->
-                        <figure class="item standard" data-groups='["category_all", "websites"]'>
+                        <figure class="item standard" data-groups='["category_all", "websites", "e-commerce"]'>
                           <div class="portfolio-item-img">
                             <img src="./img/portfolio/magicbox.jpg" alt="magicbox" title="" />
                             <a href="portfolio/magicbox.php" class="ajax-page-load"></a>
@@ -68,9 +68,9 @@
                         <!-- /Portfolio Item -->
 
                          <!-- Portfolio Item -->
-                         <figure class="item standard" data-groups='["category_all", "websites"]'>
+                         <figure class="item standard" data-groups='["category_all", "websites", "e-commerce"]'>
                           <div class="portfolio-item-img">
-                            <img src="./img/portfolio/empowerwomenhealth.jpg" alt="Empower Women Health" title="" />
+                            <img src="./img/portfolio/aegiswireless.jpg" alt="Aegis Wireless" title="" />
                             <a href="portfolio/aegiswireless.php" class="ajax-page-load"></a>
                           </div>
 
@@ -84,7 +84,7 @@
                         <figure class="item standard" data-groups='["category_all", "websites"]'>
                           <div class="portfolio-item-img">
                             <img src="./img/portfolio/empowerwomenhealth.jpg" alt="Empower Women Health" title="" />
-                            <a href="portfolio/aegiswireless.php" class="ajax-page-load"></a>
+                            <a href="portfolio/empowerwomenhealth.php" class="ajax-page-load"></a>
                           </div>
 
                           <i class="far fa-file-alt"></i>
