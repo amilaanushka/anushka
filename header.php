@@ -10,6 +10,14 @@
   <meta name="keywords" content="Anushka Mahalekamge, web developer, Designer, WordPress Developer, Digital Analyst, SEO consult, portfolio" />
   <meta name="author" content="Anushka Mahalekamge" />
 
+  <!--  Essential META Tags -->
+<meta property="og:title" content="Anushka Mahalekamge - Web designer, Developer, SEO consult, Website Analyst">
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://www.anushkamahalekamge.dev/img/Anushka.jpg">
+<meta property="og:url" content="https://www.anushkamahalekamge.dev">
+<meta property="og:description" content="Versatile and highly skilled front-end web developer with over 7+ years of experience" />
+<meta name="twitter:card" content="summary_large_image">
+
   <!-- Favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
@@ -65,7 +73,7 @@
           <!-- Navigation -->
           <div class="site-nav mobile-menu-hide">
             <ul class="leven-classic-menu site-main-menu">
-              <li class="menu-item current-menu-item">
+               <li class="menu-item "> <!-- current-menu-item -->
                 <a href=".">About Me</a>
               </li>
               <li class="menu-item">
