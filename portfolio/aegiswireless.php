@@ -11,28 +11,34 @@
         </div>
 
         <div class="ajax-page-title">
-            <h1>YM Bakery</h1>
+            <h1>Aegis Wireless</h1>
         </div>
 
         <div class="row">
             <div class="col-sm-8 col-md-8 portfolio-block">
                 <div class="owl-carousel portfolio-page-carousel">
                     <div class="item">
-                        <img src="img/portfolio/full/ym-bakery/1.jpg" alt="" />
+                        <img src="img/portfolio/full/aegiswireless/1.jpg" alt="" />
                     </div>
                     <div class="item">
-                        <img src="img/portfolio/full/ym-bakery/2.jpg" alt="" />
+                        <img src="img/portfolio/full/aegiswireless/2.jpg" alt="" />
                     </div>
-                   
+                    <div class="item">
+                        <img src="img/portfolio/full/aegiswireless/3.jpg" alt="" />
+                    </div>
+                    <div class="item">
+                        <img src="img/portfolio/full/aegiswireless/4.jpg" alt="" />
+                    </div>
+                    
                 </div>
 
-
+                
 
                 <script type="text/javascript">
-                    jQuery(document).ready(function ($) {
-                        $('.portfolio-page-carousel').imagesLoaded(function () {
+                    jQuery(document).ready(function($){
+                        $('.portfolio-page-carousel').imagesLoaded(function(){
                             $('.portfolio-page-carousel').owlCarousel({
-                                smartSpeed: 1200,
+                                smartSpeed:1200,
                                 autoplay: true,
                                 autoPlaySpeed: 1000,
                                 items: 1,
@@ -41,7 +47,7 @@
                                 nav: true,
                                 navText: false,
                                 margin: 10,
-                                autoHeight: true
+                                autoHeight:true
                             });
                         });
                     });
@@ -55,13 +61,8 @@
                         <h3>Description</h3>
                     </div>
                     <ul class="project-general-info">
-                        <li>
-                            <p><i class="fa fa-user"></i> YM Bakery</p>
-                        </li>
-                        <li>
-                            <!-- <p><i class="fa fa-globe"></i> <a href="https://magicbox.com.sg/"
-                                    target="_blank">www.magicbox.com.sg</a></p> -->
-                        </li>
+                        <li><p><i class="fa fa-user"></i> Aegis Wireless</p></li>
+                        <li><p><i class="fa fa-globe"></i> <a href="https://www.aegiswireless.ca/" target="_blank">www.aegiswireless.ca</a></p></li>
                     </ul>
 
                     <p class="text-justify"></p>
@@ -73,14 +74,12 @@
                             <h3>Technology</h3>
                         </div>
                         <ul class="tags">
-                            <li><a>WordPress</a></li>
+                        <li><a>WordPress</a></li>
                             <li><a>HTML</a></li>
-                            <li><a>SCSS</a></li>
+                            <li><a>CSS</a></li>
                             <li><a>javascript</a></li>
                             <li><a>jQuery</a></li>
                             <li><a>PHP</a></li>
-                            <li><a>Bootstrap</a></li>
-                            <li><a>Adobe XD</a></li>
                         </ul>
                     </div>
                     <!-- /Technology -->

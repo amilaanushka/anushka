@@ -44,6 +44,8 @@
                         $('.portfolio-page-carousel').imagesLoaded(function(){
                             $('.portfolio-page-carousel').owlCarousel({
                                 smartSpeed:1200,
+                                autoplay: true,
+                                autoPlaySpeed: 1000,
                                 items: 1,
                                 loop: true,
                                 dots: true,

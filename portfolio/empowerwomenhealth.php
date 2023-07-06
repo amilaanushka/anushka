@@ -40,7 +40,9 @@
                     jQuery(document).ready(function ($) {
                         $('.portfolio-page-carousel').imagesLoaded(function () {
                             $('.portfolio-page-carousel').owlCarousel({
-                                smartSpeed: 1200,
+                                smartSpeed: 1000,
+                                autoplay: true,
+                                autoPlaySpeed: 1000,
                                 items: 1,
                                 loop: true,
                                 dots: true,
@@ -62,21 +64,15 @@
                     </div>
                     <ul class="project-general-info">
                         <li>
-                            <p><i class="fa fa-user"></i> Magic Box</p>
+                            <p><i class="fa fa-user"></i> Zuellig Pharma</p>
                         </li>
                         <li>
-                            <p><i class="fa fa-globe"></i> <a href="https://magicbox.com.sg/"
-                                    target="_blank">www.magicbox.com.sg</a></p>
+                            <!-- <p><i class="fa fa-globe"></i> <a href="#"
+                                    target="_blank">www.magicbox.com.sg</a></p> -->
                         </li>
                     </ul>
 
-                    <p class="text-justify">MagicBox is an innovative Singaporean platform that offers a unique gifting
-                        experience, allowing users to surprise their loved ones with exciting activities and memorable
-                        experiences. Our team successfully transformed the client's Adobe XD layouts into a fully
-                        functional website using the Laravel framework. As the dedicated front-end web developer for
-                        this project, my role involved creating and delivering all the necessary user interface (UI)
-                        elements to the backend developers, enabling them to seamlessly integrate the site's
-                        functionalities.</p>
+                    <p class="text-justify"></p>
                     <!-- /Project Description -->
 
                     <!-- Technology -->

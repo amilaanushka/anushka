@@ -10,6 +10,20 @@
   <meta name="keywords" content="Anushka Mahalekamge, web developer, Designer, WordPress Developer, Digital Analyst, SEO consult, portfolio" />
   <meta name="author" content="Anushka Mahalekamge" />
 
+  <!--  Essential META Tags -->
+<meta property="og:site_name" content="Anushka Mahalekamge" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.anushkamahalekamge.dev" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@amilaanushka" />
+<meta name="twitter:site" content="@amilaanushka" />
+<meta property="og:title" content="Anushka Mahalekamge - Web designer, Developer, SEO consult, Website Analyst" />
+<meta name="twitter:title" content="Anushka Mahalekamge - Web designer, Developer, SEO consult, Website Analyst" />
+<meta property="og:description" content="Versatile and highly skilled front-end web developer with over 7+ years of experience" />
+<meta name="description" content="Versatile and highly skilled front-end web developer with over 7+ years of experience" />
+<meta property="og:image" content="https://www.anushkamahalekamge.dev/img/Anushka.jpg" />
+<meta name="twitter:image" content="https://www.anushkamahalekamge.dev/img/Anushka.jpg" />
+
   <!-- Favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
@@ -18,7 +32,6 @@
 <link rel="mask-icon" href="img/favicon/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
-
 
   <link rel="stylesheet" href="css/normalize.css" type="text/css">
   <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
@@ -79,7 +92,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <!-- Navigation -->
           <div class="site-nav mobile-menu-hide">
             <ul class="leven-classic-menu site-main-menu">
-              <li class="menu-item current-menu-item">
+               <li class="menu-item "> <!-- current-menu-item -->
                 <a href=".">About Me</a>
               </li>
               <li class="menu-item">

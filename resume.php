@@ -490,7 +490,7 @@
                             <li>MongoDB</li>
                             <li>Google Firebase</li>
                             <li>AWS EC2</li>
-                            <li>Cpanel</li>
+                            <li>WHM/cPanel</li>
                             <li>Plesk</li>
                             <li>GitHub</li>
                             
