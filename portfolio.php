@@ -159,6 +159,19 @@
                         </figure>
                         <!-- /Portfolio Item -->
 
+                         <!-- Portfolio Item -->
+                         <figure class="item standard" data-groups='["category_all", "websites", "wordpress"]'>
+                          <div class="portfolio-item-img">
+                            <img src="./img/portfolio/momentro.jpg" alt="Momentro" title="" />
+                            <a href="portfolio/momentro.php" class="ajax-page-load"></a>
+                          </div>
+
+                          <i class="far fa-file-alt"></i>
+                          <h4 class="name">Momentro</h4>
+                          <span class="category"> WordPress (Custom)</span>
+                        </figure>
+                        <!-- /Portfolio Item -->
+
                         <!-- Portfolio Item website-->
                         <figure class="item direct" data-groups='["category_all", "websites"]'>
                           <div class="portfolio-item-img">

@@ -11,33 +11,25 @@
         </div>
 
         <div class="ajax-page-title">
-            <h1>Mylinex International</h1>
+            <h1>Momentro</h1>
         </div>
 
         <div class="row">
             <div class="col-sm-8 col-md-8 portfolio-block">
                 <div class="owl-carousel portfolio-page-carousel">
                     <div class="item">
-                        <img src="img/portfolio/full/mylinex/1.jpg" alt="" />
+                        <img src="img/portfolio/full/momentro/1.jpg" alt="" />
                     </div>
                     <div class="item">
-                        <img src="img/portfolio/full/mylinex/2.jpg" alt="" />
+                        <img src="img/portfolio/full/momentro/2.jpg" alt="" />
                     </div>
                     <div class="item">
-                        <img src="img/portfolio/full/mylinex/3.jpg" alt="" />
+                        <img src="img/portfolio/full/momentro/3.jpg" alt="" />
                     </div>
                     <div class="item">
-                        <img src="img/portfolio/full/mylinex/4.jpg" alt="" />
+                        <img src="img/portfolio/full/momentro /4.jpg" alt="" />
                     </div>
-                    <div class="item">
-                        <img src="img/portfolio/full/mylinex/5.jpg" alt="" />
-                    </div>
-                    <div class="item">
-                        <img src="img/portfolio/full/mylinex/6.jpg" alt="" />
-                    </div>
-                    <div class="item">
-                        <img src="img/portfolio/full/mylinex/7.jpg" alt="" />
-                    </div>
+                    
                 </div>
 
                 
@@ -69,11 +61,11 @@
                         <h3>Description</h3>
                     </div>
                     <ul class="project-general-info">
-                        <li><p><i class="fa fa-user"></i> Mylinex International</p></li>
-                        <li><p><i class="fa fa-globe"></i> <a href="http://www.mylinex.com" target="_blank">www.mylinex.com</a></p></li>
+                        <li><p><i class="fa fa-user"></i> Momentro Pvt Ltd.</p></li>
+                        <li><p><i class="fa fa-globe"></i> <a href="https://momentro.com/" target="_blank">www.momentro.com</a></p></li>
                     </ul>
 
-                    <p class="text-justify">Mylinex is a telecomunication service provider located in Sri Lanka. They wanted to showcase their services, case studies and other resources (A project of Enfection pvt Ltd.)</p>
+                    <p class="text-justify">(A project of Enfection pvt Ltd.)</p>
                     <!-- /Project Description -->
 
                     <!-- Technology -->
