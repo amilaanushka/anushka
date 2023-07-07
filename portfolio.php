@@ -43,9 +43,9 @@
                           <a class="filter btn btn-sm btn-link" data-group="eDMs">eDMs/Newsletters</a>
                         </li>
 
-                        <li>
+                        <!-- <li>
                           <a class="filter btn btn-sm btn-link" data-group="others">Others</a>
-                        </li>
+                        </li> -->
                         
                       
                       </ul>
@@ -64,6 +64,19 @@
                           <i class="far fa-file-alt"></i>
                           <h4 class="name">Magicbox</h4>
                           <span class="category"> Laravel</span>
+                        </figure>
+                        <!-- /Portfolio Item -->
+
+                         <!-- Portfolio Item -->
+                         <figure class="item standard" data-groups='["category_all", "websites", "wordpress"]'>
+                          <div class="portfolio-item-img">
+                            <img src="./img/portfolio/invisalign.jpg" alt="Invisalign" title="" />
+                            <a href="portfolio/invisalign.php" class="ajax-page-load"></a>
+                          </div>
+
+                          <i class="far fa-file-alt"></i>
+                          <h4 class="name">Invisalign</h4>
+                          <span class="category"> WordPress (Custom), E-learning</span>
                         </figure>
                         <!-- /Portfolio Item -->
 
@@ -106,6 +119,19 @@
                         </figure>
                         <!-- /Portfolio Item -->
 
+                         <!-- Portfolio Item -->
+                         <figure class="item standard" data-groups='["category_all", "websites", "wordpress"]'>
+                          <div class="portfolio-item-img">
+                            <img src="./img/portfolio/sarvodaya.jpg" alt="Sarvodaya Development Finance" title="" />
+                            <a href="portfolio/sarvodaya.php" class="ajax-page-load"></a>
+                          </div>
+
+                          <i class="far fa-file-alt"></i>
+                          <h4 class="name">Sarvodaya Development Finance</h4>
+                          <span class="category"> WordPress (Custom)</span>
+                        </figure>
+                        <!-- /Portfolio Item -->
+
 
                         <!-- Portfolio Item -->
                         <figure class="item standard" data-groups='["category_all", "websites", "wordpress"]'>
@@ -123,19 +149,6 @@
                         <!-- Portfolio Item -->
                         <figure class="item standard" data-groups='["category_all", "websites", "wordpress"]'>
                           <div class="portfolio-item-img">
-                            <img src="./img/portfolio/invisalign.jpg" alt="Invisalign" title="" />
-                            <a href="portfolio/invisalign.php" class="ajax-page-load"></a>
-                          </div>
-
-                          <i class="far fa-file-alt"></i>
-                          <h4 class="name">Invisalign</h4>
-                          <span class="category"> WordPress (Custom), E-learning</span>
-                        </figure>
-                        <!-- /Portfolio Item -->
-
-                        <!-- Portfolio Item -->
-                        <figure class="item standard" data-groups='["category_all", "websites", "wordpress"]'>
-                          <div class="portfolio-item-img">
                             <img src="./img/portfolio/mylinex.jpg" alt="MyLinex" title="" />
                             <a href="portfolio/mylinex.php" class="ajax-page-load"></a>
                           </div>
@@ -146,7 +159,74 @@
                         </figure>
                         <!-- /Portfolio Item -->
 
-                       
+                        <!-- Portfolio Item website-->
+                        <figure class="item direct" data-groups='["category_all", "websites"]'>
+                          <div class="portfolio-item-img">
+                            <img src="./img/portfolio/kaiterra.jpg" alt="Kaiterra" title="" />
+                            <a target="_blank" href="https://kaiterra.co.nz/website/"></a>
+                          </div>
+
+                          <i class="fa fa-link"></i>
+                          <h4 class="name">Kaiterra.co.nz</h4>
+                          <span class="category">HTML, CSS, Bootstrap</span>
+                        </figure>
+                        <!-- /Portfolio Item website -->
+
+                        <!-- Portfolio Item -->
+                        <figure class="item standard" data-groups='["category_all", "websites", "wordpress"]'>
+                          <div class="portfolio-item-img">
+                            <img src="./img/portfolio/acca.jpg" alt="ACCA Content Hub Sri Lanka" title="" />
+                            <a href="portfolio/acca.php" class="ajax-page-load"></a>
+                          </div>
+
+                          <i class="far fa-file-alt"></i>
+                          <h4 class="name">ACCA Content Hub Sri Lanka</h4>
+                          <span class="category"> WordPress (Custom)</span>
+                        </figure>
+                        <!-- /Portfolio Item -->
+
+                        <!-- landing Pages starts -->
+
+                        <!-- Portfolio Item landing_page-->
+                        <figure class="item direct" data-groups='["category_all", "landing_page"]'>
+                          <div class="portfolio-item-img">
+                            <img src="./img/portfolio/landingpages/ACCA_event.jpg" alt="ACCA" title="" />
+                            <a target="_blank" href="https://www.anushkamahalekamge.dev/projects/landing_pages/acca-event/"></a>
+                          </div>
+
+                          <i class="fa fa-link"></i>
+                          <h4 class="name">ACCA - Programme on Strategic Insights</h4>
+                          <span class="category">Landing Page</span>
+                        </figure>
+                        <!-- /Portfolio Item landing_page -->
+
+                         <!-- Portfolio Item landing_page-->
+                         <figure class="item direct" data-groups='[ "category_all", "landing_page"]'>
+                          <div class="portfolio-item-img">
+                            <img src="./img/portfolio/landingpages/orient.jpg" alt="Orient-Finance" title="" />
+                            <a target="_blank" href="https://www.anushkamahalekamge.dev/projects/landing_pages/orient-suv"></a>
+                          </div>
+
+                          <i class="fa fa-link"></i>
+                          <h4 class="name">Orient Finance - SUV Leasing</h4>
+                          <span class="category">Landingpage</span>
+                        </figure>
+                        <!-- /Portfolio Item landing_page -->
+
+                         <!-- Portfolio Item landing_page-->
+                         <figure class="item direct" data-groups='[ "landing_page"]'>
+                          <div class="portfolio-item-img">
+                            <img src="./img/portfolio/landingpages/indikarama.jpg" alt="indika rama" title="" />
+                            <a target="_blank" href="https://www.anushkamahalekamge.dev/projects/landing_pages/indika-rama/index.php"></a>
+                          </div>
+
+                          <i class="fa fa-link"></i>
+                          <h4 class="name">Indika Rama - Coaching</h4>
+                          <span class="category">MultiPage</span>
+                        </figure>
+                        <!-- /Portfolio Item landing_page -->
+
+                        <!-- landing Pages ends -->
 
                        
 
@@ -207,7 +287,7 @@
                         <!-- /Portfolio Item eDM -->
 
                          <!-- Portfolio Item eDM -->
-                         <figure class="item direct" data-groups='["category_all", "eDMs"]'>
+                         <figure class="item direct" data-groups='[  "eDMs"]'>
                           <div class="portfolio-item-img">
                             <img src="./img/portfolio/eDM/abbott5.jpg" alt="Abbott"  title="" />
                             <a target="_blank" href="https://www.anushkamahalekamge.dev/projects/eDMs/abbott/new-high-performance-personalized-solutions/"></a>
@@ -401,7 +481,7 @@
                           </div>
 
                           <i class="fa fa-link"></i>
-                          <h4 class="name">QV - September Newsletter</h4>
+                          <h4 class="name">Enfection - September Newsletter</h4>
                           <span class="category">eDM / Newsletter Development</span>
                         </figure>
                         <!-- /Portfolio Item eDM --> 

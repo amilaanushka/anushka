@@ -11,33 +11,28 @@
         </div>
 
         <div class="ajax-page-title">
-            <h1>Invisalign Practice</h1>
+            <h1>Sarvodaya Development Finance</h1>
         </div>
 
         <div class="row">
             <div class="col-sm-8 col-md-8 portfolio-block">
                 <div class="owl-carousel portfolio-page-carousel">
                     <div class="item">
-                        <img src="img/portfolio/full/invisalign/1.jpg" alt="" />
+                        <img src="img/portfolio/full/sarvodaya/1.jpg" alt="" />
+                    </div>
+                    <!-- <div class="item">
+                        <img src="img/portfolio/full/sarvodaya/2.jpg" alt="" />
+                    </div> -->
+                    <div class="item">
+                        <img src="img/portfolio/full/sarvodaya/3.jpg" alt="" />
                     </div>
                     <div class="item">
-                        <img src=" img/portfolio/full/invisalign/2.jpg" alt="" />
+                        <img src="img/portfolio/full/sarvodaya/4.jpg" alt="" />
                     </div>
                     <div class="item">
-                        <img src=" img/portfolio/full/invisalign/3.jpg" alt="" />
+                        <img src="img/portfolio/full/sarvodaya/5.jpg" alt="" />
                     </div>
-                    <div class="item">
-                        <img src=" img/portfolio/full/invisalign/4.jpg" alt="" />
-                    </div>
-                    <div class="item">
-                        <img src=" img/portfolio/full/invisalign/5.jpg" alt="" />
-                    </div>
-                    <div class="item">
-                        <img src=" img/portfolio/full/invisalign/6.jpg" alt="" />
-                    </div>
-                    <div class="item">
-                        <img src=" img/portfolio/full/invisalign/7.jpg" alt="" />
-                    </div>
+                   
                 </div>
 
 
@@ -70,11 +65,11 @@
                     </div>
                     <ul class="project-general-info">
                         <li>
-                            <p><i class="fa fa-user"></i> Invisalign</p>
+                            <p><i class="fa fa-user"></i> Sarvodaya Development Finance</p>
                         </li>
                         <li>
-                            <p><i class="fa fa-globe"></i> <a href="https://www.invisalign-practice.com/en"
-                                    target="_blank">www.invisalign-practice.com</a></p>
+                            <p><i class="fa fa-globe"></i> <a href="https://www.anushkamahalekamge.dev/projects/sarvodaya/"
+                                    target="_blank">Sarvodaya(re-hosted )</a></p>
                         </li>
                     </ul>
 
@@ -87,15 +82,14 @@
                             <h3>Technology</h3>
                         </div>
                         <ul class="tags">
-                            <li><a>E-Learning</a></li>
                             <li><a>WordPress</a></li>
                             <li><a>HTML</a></li>
                             <li><a>SCSS</a></li>
-                            <li><a>Bootstrap</a></li>
                             <li><a>javascript</a></li>
                             <li><a>jQuery</a></li>
                             <li><a>PHP</a></li>
-                            <li><a>Photoshop</a></li>
+                            <li><a>Bootstrap</a></li>
+                            <li><a>Adobe XD</a></li>
                         </ul>
                     </div>
                     <!-- /Technology -->

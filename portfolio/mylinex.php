@@ -73,7 +73,7 @@
                         <li><p><i class="fa fa-globe"></i> <a href="http://www.mylinex.com" target="_blank">www.mylinex.com</a></p></li>
                     </ul>
 
-                    <p class="text-justify">Mylinex is a telecomunication service provider located in Sri Lanka. They wanted to showcase their services, </p>
+                    <p class="text-justify">Mylinex is a telecomunication service provider located in Sri Lanka. They wanted to showcase their services, case studies and other resources (A project of Enfection pvt Ltd.)</p>
                     <!-- /Project Description -->
 
                     <!-- Technology -->

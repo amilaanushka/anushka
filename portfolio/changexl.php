@@ -18,10 +18,22 @@
             <div class="col-sm-8 col-md-8 portfolio-block">
                 <div class="owl-carousel portfolio-page-carousel">
                     <div class="item">
-                        <img src="img/portfolio/full/ym-bakery/1.jpg" alt="" />
+                        <img src="img/portfolio/full/changexl/0.jpg" alt="" />
                     </div>
                     <div class="item">
-                        <img src="img/portfolio/full/ym-bakery/2.jpg" alt="" />
+                        <img src="img/portfolio/full/changexl/1.jpg" alt="" />
+                    </div>
+                    <div class="item">
+                        <img src="img/portfolio/full/changexl/2.jpg" alt="" />
+                    </div>
+                    <div class="item">
+                        <img src="img/portfolio/full/changexl/3.jpg" alt="" />
+                    </div>
+                    <div class="item">
+                        <img src="img/portfolio/full/changexl/4.jpg" alt="" />
+                    </div>
+                    <div class="item">
+                        <img src="img/portfolio/full/changexl/5.jpg" alt="" />
                     </div>
                    
                 </div>
@@ -60,11 +72,11 @@
                         </li>
                         <li>
                             <p><i class="fa fa-globe"></i> <a href="https://www.anushkamahalekamge.dev/projects/changexl/"
-                                    target="_blank">Changexl(re-hosted Sample)</a></p>
+                                    target="_blank">Changexl(re-hosted )</a></p>
                         </li>
                     </ul>
 
-                    <p class="text-justify"></p>
+                    <p class="text-justify">ChangeXL is an oil brand which backed by Europien oil gients. I was assigned to develop this one-page custom WordPress website according to the PSD files provided by the client. (A project of Enfection pvt Ltd.)</p>
                     <!-- /Project Description -->
 
                     <!-- Technology -->

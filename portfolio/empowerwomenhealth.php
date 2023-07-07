@@ -72,7 +72,7 @@
                         </li>
                     </ul>
 
-                    <p class="text-justify"></p>
+                    <p class="text-justify">(A project of Enfection pvt Ltd.)</p>
                     <!-- /Project Description -->
 
                     <!-- Technology -->
