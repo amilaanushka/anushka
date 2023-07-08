@@ -85,12 +85,12 @@
                         <li><a>WordPress</a></li>
                             <li><a>HTML5</a></li>
                             <li><a>SCSS</a></li>
-                            <li>Bootstrap</li>
+                            <li><a>Bootstrap</a></li>
                             <li><a>Javascript</a></li>
                             <li><a>jQuery</a></li>
                             <li><a>Ajax</a></li>
                             <li><a>PHP5</a></li>
-                            <li>Adobe Photoshop</li>
+                            <li><a>Adobe Photoshop</a></li>
                         </ul>
                     </div>
                     <!-- /Technology -->
