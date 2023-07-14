@@ -107,7 +107,7 @@
                       <div class="timeline-item clearfix">
                         <h5 class="item-period ">2022</h5>
                         <span class="item-company">Conestoga College - Kitcherner, ON, Canada</span>
-                        <h4 class="item-title">Web Development - (Full-time)</h4>
+                        <h4 class="item-title">Web Development - Postgraduate Certificate (Full-time)</h4>
                         <p>The primary focus of the program is on user-centered design supported by extensive back-end programming and front-end use of graphic design, multimedia, video, animation, and e-commerce applications to facilitate a fully functional website.</p>
                         <div class="row">
                           <div class="col-md-6">
@@ -524,7 +524,7 @@
                           <li>Google Analytics(GA4)</li>
                             <li>Tag Manager</li>
                             <li>Looker Studio</li>
-                            <li>Optimizely</li>
+                            <li>Optimize</li>
                             <li>Google Search Console</li>
 
                             <li>Hubspot</li>
