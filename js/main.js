@@ -378,3 +378,38 @@
     });
 
 })(jQuery);
+
+// <!-- Accessibility Code for "www.anushkamahalekamge.dev" -->
+window.interdeal = {
+    "sitekey": "336e8dddb2271412f4fcf5a032d982de",
+    "Position": "Left",
+    "Menulang": "EN",
+    "domains": {
+        "js": "https://cdn.equalweb.com/",
+        "acc": "https://access.equalweb.com/"
+    },
+    "btnStyle": {
+        "vPosition": [
+            "80%",
+            null
+        ],
+        "scale": [
+            "0.8",
+            "0.8"
+        ],
+        "icon": {
+            "type": 7,
+            "shape": "semicircle",
+            "outline": false
+        }
+    }
+};
+(function(doc, head, body){
+	var coreCall             = doc.createElement('script');
+	coreCall.src             = interdeal.domains.js + 'core/4.5.6/accessibility.js';
+	coreCall.defer           = true;
+	coreCall.integrity       = 'sha512-rotepgID7jK/CgENxVXOfMA1+62xwcnONU14mNlHVkywU+O9+uN5JqPHxBCJpGJhc3eUFYdtdjRaTdf6uffOyg==';
+	coreCall.crossOrigin     = 'anonymous';
+	coreCall.setAttribute('data-cfasync', true );
+	body? body.appendChild(coreCall) : head.appendChild(coreCall);
+})(document, document.head, document.body);
